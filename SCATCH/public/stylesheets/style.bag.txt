@@ -1,0 +1,39 @@
+01. Backpack
+    BackgroundColor - #F3F8FB
+    PanelColor - #D3E4EE
+    textColor - #4E6674
+
+02. Clinge Bag
+    BackgroundColor - #F4DDD2
+    PanelColor - #DEBEAE
+    textColor - #774F3D
+
+03. Multipurpose Bag
+    BackgroundColor - #DED0BF
+    PanelColor - #C5B095
+    textColor - #5F4A30
+
+04. Pink Attack
+    BackgroundColor - #F4E0E1
+    PanelColor - #E3C4C6
+    textColor - #816264
+
+05. Supreme Bag
+    BackgroundColor - #F2F2F2
+    PanelColor - #DECFB3
+    textColor - #565656
+
+06. Surprise Bag
+    BackgroundColor - #F3E9D6
+    PanelColor - #DECFB3
+    textColor - #857456
+
+07. The Daily Bag
+    BackgroundColor - #FBFBFB
+    PanelColor - #EBEBEB
+    textColor - #717171
+
+08. The Stud Bag
+    BackgroundColor - #D7D7D7
+    PanelColor - #B8B8B8
+    textColor - #4D4D4D    
